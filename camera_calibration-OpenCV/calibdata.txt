@@ -1,0 +1,9 @@
+D:/OpenCV/project/OpenCV/jpg/1_d.jpg
+D:/OpenCV/project/OpenCV/jpg/2_d.jpg
+D:/OpenCV/project/OpenCV/jpg/3_d.jpg
+D:/OpenCV/project/OpenCV/jpg/4_d.jpg
+D:/OpenCV/project/OpenCV/jpg/5_d.jpg
+D:/OpenCV/project/OpenCV/jpg/6_d.jpg
+D:/OpenCV/project/OpenCV/jpg/7_d.jpg
+D:/OpenCV/project/OpenCV/jpg/8_d.jpg
+
